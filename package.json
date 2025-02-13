@@ -1,0 +1,21 @@
+{
+  "name": "salon",
+  "version": "1.0.0",
+  "description": "proyecto de salon de belleza",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "diego sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.20.3",
+    "cors": "^2.8.5",
+    "express": "4.21.1",
+    "express-session": "1.18.1",
+    "jest": "^29.7.0",
+    "mongoose": "8.8.3",
+    "nodemailer": "6.9.16",
+    "sha256": "0.2.0"
+  }
+}
